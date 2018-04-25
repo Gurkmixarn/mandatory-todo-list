@@ -1,0 +1,23 @@
+{
+  "name": "mandatory-todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurkmixarn/mandatory-todo-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gurkmixarn/mandatory-todo-list/issues"
+  },
+  "homepage": "https://github.com/Gurkmixarn/mandatory-todo-list#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
